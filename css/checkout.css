@@ -1,0 +1,10 @@
+.form-control: invalid {
+	border: 1px solid #cc0000;
+}
+<style>
+	.navbar .glyphicon {
+		margin: 0;
+		color:yellow;
+	}
+
+</style>
